@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pdf
+venv/
+.env.*
+.DS_Store
+*.sqlite3
